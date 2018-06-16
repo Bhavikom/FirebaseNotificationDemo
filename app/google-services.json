@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "728850644136",
+    "firebase_url": "https://paykunfirebase.firebaseio.com",
+    "project_id": "paykunfirebase",
+    "storage_bucket": "paykunfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728850644136:android:2099ad1b3e2a7894",
+        "android_client_info": {
+          "package_name": "com.om.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728850644136-qflvoeg9ltb0uaqe22va33g1jjbfvvie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.om.notification",
+            "certificate_hash": "3d1d013141659cd8626aa8283d2d17a9e53a3399"
+          }
+        },
+        {
+          "client_id": "728850644136-fk7q09h2eghbitabtha7a9lhjh9rh74j.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "728850644136-fk7q09h2eghbitabtha7a9lhjh9rh74j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRHoWrNGJI7IQ3WNZvjgY2Sm160q5ngtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728850644136-fk7q09h2eghbitabtha7a9lhjh9rh74j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
